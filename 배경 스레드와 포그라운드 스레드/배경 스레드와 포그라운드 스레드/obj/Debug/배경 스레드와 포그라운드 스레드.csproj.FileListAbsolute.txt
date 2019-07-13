@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\bin\Debug\배경 스레드와 포그라운드 스레드.exe.config
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\bin\Debug\배경 스레드와 포그라운드 스레드.exe
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\bin\Debug\배경 스레드와 포그라운드 스레드.pdb
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\obj\Debug\배경 스레드와 포그라운드 스레드.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\obj\Debug\배경 스레드와 포그라운드 스레드.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\obj\Debug\배경 스레드와 포그라운드 스레드.exe
+C:\Users\youdong\source\repos\배경 스레드와 포그라운드 스레드\배경 스레드와 포그라운드 스레드\obj\Debug\배경 스레드와 포그라운드 스레드.pdb

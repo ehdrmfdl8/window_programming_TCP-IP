@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드를 이용한 네트워크 프로그래밍", "스레드를 이용한 네트워크 프로그래밍\스레드를 이용한 네트워크 프로그래밍.csproj", "{1CAB3EB2-BE2E-4E90-BCD1-836C6A5F9508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAB3EB2-BE2E-4E90-BCD1-836C6A5F9508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAB3EB2-BE2E-4E90-BCD1-836C6A5F9508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAB3EB2-BE2E-4E90-BCD1-836C6A5F9508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAB3EB2-BE2E-4E90-BCD1-836C6A5F9508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FD3D34-40C2-4F14-ACFC-D0D55B3A47E9}
+	EndGlobalSection
+EndGlobal

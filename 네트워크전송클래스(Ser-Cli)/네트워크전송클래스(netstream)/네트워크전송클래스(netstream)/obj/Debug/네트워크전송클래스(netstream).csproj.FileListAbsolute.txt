@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\bin\Debug\네트워크전송클래스(netstream).exe.config
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\bin\Debug\네트워크전송클래스(netstream).exe
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\bin\Debug\네트워크전송클래스(netstream).pdb
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\obj\Debug\네트워크전송클래스(netstream).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\obj\Debug\네트워크전송클래스(netstream).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\obj\Debug\네트워크전송클래스(netstream).exe
+C:\Users\youdong\source\repos\네트워크전송클래스(netstream)\네트워크전송클래스(netstream)\obj\Debug\네트워크전송클래스(netstream).pdb

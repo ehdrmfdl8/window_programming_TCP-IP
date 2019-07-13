@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\bin\Debug\네트워크 정보 클래스(DNS).exe.config
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\bin\Debug\네트워크 정보 클래스(DNS).exe
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\bin\Debug\네트워크 정보 클래스(DNS).pdb
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\obj\Debug\네트워크 정보 클래스(DNS).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\obj\Debug\네트워크 정보 클래스(DNS).exe
+C:\Users\youdong\source\repos\네트워크 정보 클래스(DNS)\네트워크 정보 클래스(DNS)\obj\Debug\네트워크 정보 클래스(DNS).pdb

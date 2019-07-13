@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\bin\Debug\네트워크연결클래스(networkStream).exe.config
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\bin\Debug\네트워크연결클래스(networkStream).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\bin\Debug\네트워크연결클래스(networkStream).pdb
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\obj\Debug\네트워크연결클래스(networkStream).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\obj\Debug\네트워크연결클래스(networkStream).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\obj\Debug\네트워크연결클래스(networkStream).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream)\obj\Debug\네트워크연결클래스(networkStream).pdb

@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\bin\Debug\abort함수를 이용한 스레드.exe.config
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\bin\Debug\abort함수를 이용한 스레드.exe
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\bin\Debug\abort함수를 이용한 스레드.pdb
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\obj\Debug\abort함수를 이용한 스레드.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\obj\Debug\abort함수를 이용한 스레드.exe
+C:\Users\youdong\source\repos\abort함수를 이용한 스레드\abort함수를 이용한 스레드\obj\Debug\abort함수를 이용한 스레드.pdb

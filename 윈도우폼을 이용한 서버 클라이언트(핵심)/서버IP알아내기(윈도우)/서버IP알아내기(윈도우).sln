@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "서버IP알아내기(윈도우)", "서버IP알아내기(윈도우)\서버IP알아내기(윈도우).csproj", "{2FCAFE05-C97A-4A6C-A891-549EC3283865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCAFE05-C97A-4A6C-A891-549EC3283865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCAFE05-C97A-4A6C-A891-549EC3283865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCAFE05-C97A-4A6C-A891-549EC3283865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCAFE05-C97A-4A6C-A891-549EC3283865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCBA348-7A0D-4FC7-94C6-D67A0948E26C}
+	EndGlobalSection
+EndGlobal

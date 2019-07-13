@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread_Join 메서드 예제", "Thread_Join 메서드 예제\Thread_Join 메서드 예제.csproj", "{E9EEF38F-3BC7-4C48-B1B6-9944C9F1FE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EEF38F-3BC7-4C48-B1B6-9944C9F1FE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EEF38F-3BC7-4C48-B1B6-9944C9F1FE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EEF38F-3BC7-4C48-B1B6-9944C9F1FE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EEF38F-3BC7-4C48-B1B6-9944C9F1FE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796F204D-9300-4018-AE32-B296BF45A792}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "동기화(Mutex{객체})", "동기화(Mutex{객체})\동기화(Mutex{객체}).csproj", "{CAE1F03C-BDEA-40A3-AFBE-6A63412F728C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE1F03C-BDEA-40A3-AFBE-6A63412F728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE1F03C-BDEA-40A3-AFBE-6A63412F728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE1F03C-BDEA-40A3-AFBE-6A63412F728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE1F03C-BDEA-40A3-AFBE-6A63412F728C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609DE854-71A5-46AD-BCE3-A9DAA255B522}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\bin\Debug\네트워크연결클래스(TCPClient).exe.config
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\bin\Debug\네트워크연결클래스(TCPClient).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\bin\Debug\네트워크연결클래스(TCPClient).pdb
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\obj\Debug\네트워크연결클래스(TCPClient).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\obj\Debug\네트워크연결클래스(TCPClient).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\obj\Debug\네트워크연결클래스(TCPClient).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(TCPClient)\네트워크연결클래스(TCPClient)\obj\Debug\네트워크연결클래스(TCPClient).pdb

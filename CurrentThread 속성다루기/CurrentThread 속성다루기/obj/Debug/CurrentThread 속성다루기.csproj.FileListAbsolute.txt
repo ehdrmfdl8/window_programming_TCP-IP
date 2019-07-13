@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\bin\Debug\CurrentThread 속성다루기.exe.config
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\bin\Debug\CurrentThread 속성다루기.exe
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\bin\Debug\CurrentThread 속성다루기.pdb
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\obj\Debug\CurrentThread 속성다루기.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\obj\Debug\CurrentThread 속성다루기.exe
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\obj\Debug\CurrentThread 속성다루기.pdb
+C:\Users\youdong\source\repos\CurrentThread 속성다루기\CurrentThread 속성다루기\obj\Debug\CurrentThread 속성다루기.csprojAssemblyReference.cache

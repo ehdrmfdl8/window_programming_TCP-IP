@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\bin\Debug\네트워크전송클래스(BinaryWrite)_server.exe.config
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\bin\Debug\네트워크전송클래스(BinaryWrite)_server.exe
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\bin\Debug\네트워크전송클래스(BinaryWrite)_server.pdb
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\obj\Debug\네트워크전송클래스(BinaryWrite)_server.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\obj\Debug\네트워크전송클래스(BinaryWrite)_server.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\obj\Debug\네트워크전송클래스(BinaryWrite)_server.exe
+C:\Users\youdong\source\repos\네트워크전송클래스(BinaryWrite)_server\네트워크전송클래스(BinaryWrite)_server\obj\Debug\네트워크전송클래스(BinaryWrite)_server.pdb

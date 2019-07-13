@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\bin\Debug\동기화(모니터).exe.config
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\bin\Debug\동기화(모니터).exe
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\bin\Debug\동기화(모니터).pdb
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\obj\Debug\동기화(모니터).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\obj\Debug\동기화(모니터).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\obj\Debug\동기화(모니터).exe
+C:\Users\youdong\source\repos\동기화(모니터)\동기화(모니터)\obj\Debug\동기화(모니터).pdb

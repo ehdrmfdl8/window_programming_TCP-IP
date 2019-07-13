@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\동기화2\동기화2\bin\Debug\동기화2.exe.config
+C:\Users\youdong\source\repos\동기화2\동기화2\bin\Debug\동기화2.exe
+C:\Users\youdong\source\repos\동기화2\동기화2\bin\Debug\동기화2.pdb
+C:\Users\youdong\source\repos\동기화2\동기화2\obj\Debug\동기화2.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\동기화2\동기화2\obj\Debug\동기화2.exe
+C:\Users\youdong\source\repos\동기화2\동기화2\obj\Debug\동기화2.pdb

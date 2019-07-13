@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\bin\Debug\네트워크전송클래스(StreamRead)-Client.exe.config
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\bin\Debug\네트워크전송클래스(StreamRead)-Client.exe
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\bin\Debug\네트워크전송클래스(StreamRead)-Client.pdb
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\obj\Debug\네트워크전송클래스(StreamRead)-Client.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\obj\Debug\네트워크전송클래스(StreamRead)-Client.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\obj\Debug\네트워크전송클래스(StreamRead)-Client.exe
+C:\Users\youdong\source\repos\네트워크전송클래스(StreamRead)-Client\네트워크전송클래스(StreamRead)-Client\obj\Debug\네트워크전송클래스(StreamRead)-Client.pdb

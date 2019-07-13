@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\bin\Debug\네트워크연결클래스(TCP.start,stop).exe.config
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\bin\Debug\네트워크연결클래스(TCP.start,stop).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\bin\Debug\네트워크연결클래스(TCP.start,stop).pdb
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\obj\Debug\네트워크연결클래스(TCP.start,stop).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\obj\Debug\네트워크연결클래스(TCP.start,stop).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(TCP.start,stop)\네트워크연결클래스(TCP.start,stop)\obj\Debug\네트워크연결클래스(TCP.start,stop).pdb

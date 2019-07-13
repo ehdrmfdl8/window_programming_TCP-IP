@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\bin\Debug\네트워크연결클래스(Netstream-Client).exe.config
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\bin\Debug\네트워크연결클래스(Netstream-Client).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\bin\Debug\네트워크연결클래스(Netstream-Client).pdb
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\obj\Debug\네트워크연결클래스(Netstream-Client).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\obj\Debug\네트워크연결클래스(Netstream-Client).exe
+C:\Users\youdong\source\repos\네트워크연결클래스(Netstream-Client)\네트워크연결클래스(Netstream-Client)\obj\Debug\네트워크연결클래스(Netstream-Client).pdb

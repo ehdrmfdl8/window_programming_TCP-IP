@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\bin\Debug\네트워크전송클래스(Client).exe.config
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\bin\Debug\네트워크전송클래스(Client).exe
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\bin\Debug\네트워크전송클래스(Client).pdb
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\obj\Debug\네트워크전송클래스(Client).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\obj\Debug\네트워크전송클래스(Client).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\obj\Debug\네트워크전송클래스(Client).exe
+C:\Users\youdong\source\repos\네트워크전송클래스(Client)\네트워크전송클래스(Client)\obj\Debug\네트워크전송클래스(Client).pdb

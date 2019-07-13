@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "네트워크연결클래스(networkStream)", "네트워크연결클래스(networkStream)\네트워크연결클래스(networkStream).csproj", "{B8020432-AED0-408E-A73F-D053B5B6BEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8020432-AED0-408E-A73F-D053B5B6BEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8020432-AED0-408E-A73F-D053B5B6BEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8020432-AED0-408E-A73F-D053B5B6BEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8020432-AED0-408E-A73F-D053B5B6BEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C47075-E714-40DE-8697-738C56CC2641}
+	EndGlobalSection
+EndGlobal

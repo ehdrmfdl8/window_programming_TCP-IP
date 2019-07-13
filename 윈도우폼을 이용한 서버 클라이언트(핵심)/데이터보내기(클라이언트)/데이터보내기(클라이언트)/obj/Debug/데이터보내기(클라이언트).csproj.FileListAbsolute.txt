@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\bin\Debug\데이터보내기(클라이언트).exe.config
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\bin\Debug\데이터보내기(클라이언트).exe
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\bin\Debug\데이터보내기(클라이언트).pdb
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기(클라이언트).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기_클라이언트_.Form1.resources
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기_클라이언트_.Properties.Resources.resources
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기(클라이언트).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기(클라이언트).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기(클라이언트).exe
+C:\Users\youdong\source\repos\데이터보내기(클라이언트)\데이터보내기(클라이언트)\obj\Debug\데이터보내기(클라이언트).pdb

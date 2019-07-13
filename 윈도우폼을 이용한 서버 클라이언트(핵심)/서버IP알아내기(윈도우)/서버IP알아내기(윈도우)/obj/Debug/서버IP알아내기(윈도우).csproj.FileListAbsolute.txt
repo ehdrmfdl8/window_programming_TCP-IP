@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\bin\Debug\서버IP알아내기(윈도우).exe.config
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\bin\Debug\서버IP알아내기(윈도우).exe
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\bin\Debug\서버IP알아내기(윈도우).pdb
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기(윈도우).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기_윈도우_.Form1.resources
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기_윈도우_.Properties.Resources.resources
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기(윈도우).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기(윈도우).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기(윈도우).exe
+C:\Users\youdong\source\repos\서버IP알아내기(윈도우)\서버IP알아내기(윈도우)\obj\Debug\서버IP알아내기(윈도우).pdb
